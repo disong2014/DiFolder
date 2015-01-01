@@ -1,0 +1,407 @@
+{
+  "Name": {
+    "FirstName": "Di",
+    "LastName": "Song"
+  },
+  "Address": {
+    "Addr1": "49 Day St Apt. 401",
+    "Addr2": "",
+    "City": "Norwalk",
+    "State": "CT",
+    "ZipCode": "06854"
+  },
+  "PhoneNumber": "443-994-4335",
+  "Email": "disongjob@gmail.com",
+  "CareerObjective": "A highly self-motivated, skilled and experienced Full-stack web developer is looking for a job opportunity in the field of Front-end Web Developer or Full-stack Web developer.",
+  "SelfDescription": [
+    {
+      "slfDescription": "Excellent understanding of Object-Oriented Programming"
+    },
+    {
+      "slfDescription": "Quick learner and self-motivated worker"
+    },
+    {
+      "slfDescription": "On time job submission and never postponed work"
+    },
+    {
+      "slfDescription": "Enthusiastic for programming and ability to work in a team under pressure"
+    },
+    {
+      "slfDescription": "Good motivator, enthusiastic and open to learn new techniques"
+    },
+    {
+      "slfDescription": "Programming with creative idea "
+    },
+    {
+      "slfDescription": "Excellent verbal and written communication skills"
+    }
+  ],
+  "PersonalStrengths": {
+    "Skills": [
+      {
+        "Skill": "Javascript"
+      },
+      {
+        "Skill": "AngularJS"
+      },
+      {
+        "Skill": "HTML5"
+      },
+      {
+        "Skill": "Bower"
+      },
+      {
+        "Skill": "JSON"
+      },
+      {
+        "Skill": "JQuery"
+      },
+      {
+        "Skill": "Node.js"
+      },
+      {
+        "Skill": "Express"
+      },
+      {
+        "Skill": "D3.js"
+      },
+      {
+        "Skill": "Git"
+      },
+      {
+        "Skill": "CSS"
+      },
+      {
+        "Skill": "npm"
+      },
+      {
+        "Skill": "Angular-Bootstrap"
+      },
+      {
+        "Skill": "Bootstrap"
+      },
+      {
+        "Skill": "AjaxPro"
+      },
+      {
+        "Skill": "Asp .Net "
+      },
+      {
+        "Skill": "RDL"
+      },
+      {
+        "Skill": "Java"
+      },
+      {
+        "Skill": "C++"
+      },
+      {
+        "Skill": "EC2"
+      },
+      {
+        "Skill": "AWS"
+      }
+    ],
+    "Databases": [
+      {
+        "database": "SQL-Server"
+      },
+      {
+        "database": "Oracle"
+      },
+      {
+        "database": "MySQL"
+      }
+    ],
+    "IDEs": [
+      {
+        "IDE": "Visual Studio"
+      },
+      {
+        "IDE": "Edit-plus"
+      },
+      {
+        "IDE": "Eclipse"
+      },
+      {
+        "IDE": "NetBean"
+      }
+    ],
+    "Systems": [
+      {
+        "System": "Windows"
+      },
+      {
+        "System": "Linux"
+      },
+      {
+        "System": "Unix"
+      }
+    ]
+  },
+  "Educations": [
+    {
+      "Degree": "Bachelor Degree",
+      "Major": "Computer Science",
+      "College": "University of Electronic Science and Technology of Chengdu, China",
+      "Gpa": "",
+      "StartYear": "",
+      "EndYear": "2007"
+    },
+    {
+      "Degree": "Master Degree",
+      "Major": "Computer Science",
+      "College": "University of Bridgeport",
+      "Gpa": "",
+      "StartYear": "",
+      "EndYear": "2011"
+    },
+    {
+      "Degree": "Master Degree",
+      "Major": "Computer Engineering",
+      "College": "University of Bridgeport",
+      "Gpa": "",
+      "StartYear": "",
+      "EndYear": "2013"
+    }
+  ],
+  "WorkAchievements": [
+    {
+      "Description": "Improve architecture of Ticketing page and clarify Ticket inner logic "
+    },
+    {
+      "Description": "Reduce HTTP accesses to Improve  50% page loading time"
+    },
+    {
+      "Description": "100% satisfaction from customer feedback"
+    }
+  ],
+  "Experiences": {
+    "WorkingExperices": {
+      "Company": "Sysdyne Technology, LLC",
+      "CompanyLocation": "Stamford , CT",
+      "JobTitle": "Full-stack Web Developer",
+      "Responsibilities": [
+        {
+          "Res": "Designed, executed, and supported internal 3-tier web application used asp.net C# in Concrete Industry Dispatch."
+        },
+        {
+          "Res": "Optimization the performance of the relational database."
+        },
+        {
+          "Res": "Created and integrated enterprise reports using SQL reporting service."
+        }
+      ],
+      "Techniques": [
+        {
+          "Tech": "Ajax"
+        },
+        {
+          "Tech": "AjaxPro Framework"
+        },
+        {
+          "Tech": "JQuery"
+        },
+        {
+          "Tech": "JQuery-UI"
+        },
+        {
+          "Tech": "Javascript"
+        },
+        {
+          "Tech": "Html"
+        },
+        {
+          "Tech": "Asp.net"
+        },
+        {
+          "Tech": "C#"
+        },
+        {
+          "Tech": "CSS"
+        },
+        {
+          "Tech": "SQL-Server"
+        }
+      ],
+      "WorkingModlues": [
+        {
+          "ModuleName": "Aggregate Module",
+          "Responsibility": [
+            {
+              "ResName": "Design part of database tables, stored procedures and inline functions."
+            },
+            {
+              "ResName": "Development of Aggregate Order scheduling."
+            },
+            {
+              "ResName": "User Interface(Cartage Charge Ticket) design and Ajax event binding."
+            },
+            {
+              "ResName": "Developed back-end logic Truck Rostering, Ticketing and Ordering."
+            }
+          ],
+          "ModuleFeatures": [
+            {
+              "Feature": "Improve weight master working efficiency"
+            },
+            {
+              "Feature": "5 minutes input time saving per each order"
+            },
+            {
+              "Feature": "Auto Cartage calculation populated according Truck weight"
+            },
+            {
+              "Feature": "Improve 10 percent trucks usage utilization"
+            }
+          ]
+        },
+        {
+          "ModuleName": "Inventory module",
+          "Responsibility": [
+            {
+              "ResName": "Database table design and related stored procedures design."
+            },
+            {
+              "ResName": "Customer inventory requirement Analysis."
+            },
+            {
+              "ResName": "Generating Transactions report and balance analysis report ."
+            },
+            {
+              "ResName": "Designing different forms of transactions UI and binding Ajax functions."
+            }
+          ],
+          "ModuleFeatures": [
+            {
+              "Feature": "20% existing customers and 10% potential customers are fascinated by this feature"
+            },
+            {
+              "Feature": "Alarm report email triggered when Inventory balance is low."
+            },
+            {
+              "Feature": "Cost management of Material and avoid 10% percent waste as a purpose. "
+            },
+            {
+              "Feature": "Dynamically Tracking remote locations Inventory."
+            },
+            {
+              "Feature": "Inventory balance dynamically triggered when tickets are issued. "
+            },
+            {
+              "Feature": "Test Inventory module, write testing case file and record test result."
+            }
+          ]
+        }
+      ]
+    },
+    "SelfExperiences": [
+      {
+        "ProjectName": "Personal Resume data web service",
+        "Feature": [
+          {
+            "Description": "Response JSON style of my resume data using node.js and express framework."
+          }
+        ],
+        "Responsibility": [
+          {
+            "ResName": ""
+          }
+        ],
+        "DisplayUrl": ""
+      },
+      {
+        "ProjectName": "Child Growth Charts",
+        "Feature": [
+          {
+            "Description": "Tracking respond coordinates shows when mouse blur event triggered."
+          }
+        ],
+        "Responsibility": [
+          {
+            "ResName": "Draw child growth BMI chart using d3.js in svg tag."
+          }
+        ],
+        "DisplayUrl": "http://growthcharts.bitbucket.org/DiFolder/index.html"
+      }
+    ],
+    "CollegeExperiences": [
+      {
+        "ProjectName": "The web food ordering system and management System",
+        "ProjectType": "Website",
+        "Responsibilities": [
+          {
+            "ResName": "User Interface design of window forms."
+          },
+          {
+            "ResName": "Inputs validation."
+          },
+          {
+            "ResName": "Web architecture design using Factory Design Pattern."
+          },
+          {
+            "ResName": "User permission management for internal communications portal."
+          },
+          {
+            "ResName": "Smart look up for order search using Ajax functions."
+          }
+        ]
+        
+      },
+      {
+        "ProjectName": "Chat room application",
+        "ProjectType": "Java Application",
+        "Responsibilities": [
+          {
+            "ResName": "User Interface design of window using Swing."
+          },
+          {
+            "ResName": "Implementing the chat room under the local network to make people communicate each other through our Client side code."
+          },
+          {
+            "ResName": "We design our own protocol to convey messages with stream by using Socket."
+          }
+        ]
+        
+      },
+      {
+        "ProjectName": "Logic circuit Simulator",
+        "ProjectType": "C++ project",
+        "Responsibilities": [
+          {
+            "ResName": "Implemented polymorphism, encapsulation, inheritance by creating 18 logic gates"
+          },
+          {
+            "ResName": "Use FileStream to read a netlist file then initialize their interconnections of gates"
+          },
+          {
+            "ResName": "ccomplished Timing-wheel data-structure to simulate circuit delay"
+          }
+        ]
+        
+      },
+      {
+        "ProjectName": "UNIX experience",
+        "ProjectType": "Unix",
+        "Responsibilities": [
+          {
+            "ResName": "UNIX shell programming shows how to manipulate files, directories and filter the useful information from certain files"
+          },
+          {
+            "ResName": "UNIX System programming tasks include using system call to control files, processes and interprocess communication like record locking, message queues and share memory"
+          },
+          {
+            "ResName": "Linux administration lead me to manage users, understanding of File Systems and know Compiling Linux Kernel"
+          }
+        ]
+        
+      },
+
+
+    ]
+  }
+  
+  
+  
+  
+}
